@@ -12,21 +12,21 @@ export const testimonialsData = [
     {
         id: 1,
         name: 'Himanshu Ahuja',
-        title: 'Founder Ahuja Products and Services',
+        title: 'ahujaproducts.netlify.app',
         text: "Siddharth Bisht's coding skills are exceptional! His attention to detail and ability to solve complex problems is truly impressive. He delivered outstanding results on our project and I highly recommend him as a developer.",
         image: boy2
     },
     {
         id: 2,
         name: 'Vishaka Aggrawal',
-        title: 'Godrej Enterprises',
+        title: 'godrej146noida.com',
         text: "Siddharth Bisht's technical proficiency and innovative thinking have greatly impressed our team. He consistently delivered high-quality code and exceeded our expectations. His commitment to excellence is truly commendable. I wouldn't hesitate to recommend him to anyone seeking a skilled developer",
         image: girl2
     },
     {
         id: 3,
         name: 'Mohd Kaif',
-        title: 'Founder After School Classes Nainital',
+        title: 'After School Classes Nainital',
         text: "Siddharth Bisht is an outstanding freelancer. His technical expertise, reliability, and ability to work independently make him a trusted partner. He consistently goes above and beyond to ensure project success. I highly recommend Siddharth for freelancing opportunities",
         image: boy1
     },
