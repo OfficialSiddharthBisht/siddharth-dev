@@ -52,7 +52,7 @@ function ClientWork() {
                     </div>
                     <div className="projects--body">
                         <div className="projects--bodyContainer">
-                            {clientProjectsData.slice(0, 2).map(project => (
+                            {clientProjectsData.slice(0, 3).map(project => (
                                 <SingleWork
                                     theme={theme}
                                     key={project.id}

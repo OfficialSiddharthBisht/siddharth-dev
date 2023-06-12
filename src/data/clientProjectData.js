@@ -19,12 +19,24 @@ export const clientProjectsData = [
         projectName: "Ahuja Products And Services",
         projectDesc: [
           "Desktops Laptops Second Hand and repair services , provies electrical appliences and stationary",
-          ["Solo Project", "Made Tesla Landing Page"]
+          ["Solo Project", ""]
         ],
         tags: ["Vanilla JS", "Bootstrap","Landing Page"],
         demo: "https://ahujaproducts.netlify.app/",
         image:
           "./ahuja.png"
+      },
+      {
+        id: 3,
+        projectName: "After School Nainital",
+        projectDesc: [
+          "",
+          ["Solo Freelancing Project", ""]
+        ],
+        tags: ["Vanilla JS", "Bootstrap","Landing Page"],
+        demo: "https://afterschoolnainital.netlify.app/",
+        image:
+          "./afterSchool.png"
       },
       // {
       //   id: 3,
