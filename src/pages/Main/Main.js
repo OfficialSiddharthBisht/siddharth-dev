@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 
 import { Navbar, Footer, Landing, About, Skills, Testimonials, Blog, Education, Experience, Contacts, Projects, Services, Achievement } from '../../components'
 import { headerData } from '../../data/headerData'
+import ClientWork from '../../components/ClientWork/ClientWork'
 
 function Main() {
     return (
@@ -18,6 +19,7 @@ function Main() {
             <Skills />
             <Experience />
             <Projects />
+            <ClientWork />
             <Achievement />
             <Services />
             <Testimonials />

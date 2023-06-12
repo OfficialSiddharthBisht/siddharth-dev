@@ -1,33 +1,30 @@
-export const projectsData = [
+export const clientProjectsData = [
     {
         id: 1,
-        projectName: "Nykaa Clone",
+        projectName: "Godrej 146 Noida",
         projectDesc: [
-          `Nykaa is an E-commerce company have domain around cosmetic's`,
+          `Godrej Properties has revealed its intention to attract both homebuyers and investors by offering a top-notch residential project situated in a prime location at Sector 146 in Noida.`,
           [
-            "Front-End Using React",
-            "Back-End using Node Express",
-            "Database using MongoDB"
+            ""
           ]
         ],
-        tags: ["React", "Express", "MongoDB","Node JS"],
-        code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
-        demo: "https://nykaa-clone-siddharth.netlify.app/",
+        tags: ["HTML", "CSS", "JavaScript","Sheet API"],
+        // code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
+        demo: "https://godrej146noida.com/",
         image:
-          "https://th.bing.com/th/id/OIP.eiIhwuSOWJvAgFDj0XOVtAHaDS?pid=ImgDet&rs=1"
+          "./godrej.webp"
       },
       {
         id: 2,
-        projectName: "Tesla Clone",
+        projectName: "Ahuja Products And Services",
         projectDesc: [
-          "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.",
+          "Desktops Laptops Second Hand and repair services , provies electrical appliences and stationary",
           ["Solo Project", "Made Tesla Landing Page"]
         ],
-        tags: ["React", "Redux"],
-        code: "https://github.com/OfficialSiddharthBisht/tesla-clone",
-        demo: "https://tesla-clone-rho.vercel.app/",
+        tags: ["Vanilla JS", "Bootstrap","Landing Page"],
+        demo: "https://ahujaproducts.netlify.app/",
         image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.f9OvjIR-m7YLjEqv-wJL-QHaJq%26pid%3DApi&f=1"
+          "./ahuja.png"
       },
       {
         id: 3,
@@ -82,6 +79,7 @@ export const projectsData = [
         projectDesc: [
           "React native application a UI app.",
           [
+            "styled components",
             "Images , View , SafeAreaView etc",
             "expo client"
           ]
@@ -91,21 +89,6 @@ export const projectsData = [
         demo: "https://www.figma.com/proto/9GGK9LVp4F5vS64YM9cUs0/First-Mockup-E-com-v1?type=design&node-id=1-3&scaling=scale-down&page-id=0%3A1",
         image:
           "./code.png"
-      },
-      {
-        id: 5,
-        projectName: "Lumen 5 Clone",
-        projectDesc: [
-          "A vanilla JS Project built on a week.",
-          [
-            "Landing Page",
-          ]
-        ],
-        tags: ["HTML", "CSS","JavaScript"],
-        code: "https://github.com/OfficialSiddharthBisht/Lumen5-Video-Maker-Clone",
-        demo: "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/",
-        image:
-          "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/Assets/Images/logo.png"
       },
 ]
 
