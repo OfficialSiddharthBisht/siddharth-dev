@@ -105,7 +105,7 @@ export const projectsData = [
         code: "https://github.com/OfficialSiddharthBisht/Lumen5-Video-Maker-Clone",
         demo: "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/",
         image:
-          "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/Assets/Images/logo.png"
+          "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/Assets/Images/logo-white.png"
       },
 ]
 
