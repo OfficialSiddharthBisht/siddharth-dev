@@ -33,10 +33,10 @@ export const projectsData = [
         id: 3,
         projectName: "E Commerce Backend NodeJS",
         projectDesc: [
-          "E commerce Backend with all functionalities of an e commerce site",
+          "E commerce Backend ",
           ["Solo Project", "Admin, User, Cart ,Filters, Search, Products, Orders"]
         ],
-        tags: ["MongoDB", "Express"],
+        tags: ["MongoDB", "ExpressJS","NodeJS"],
         code: "https://github.com/OfficialSiddharthBisht/e-commerce-backend",
         demo: "https://github.com/OfficialSiddharthBisht/e-commerce-backend/wiki",
         image:
@@ -111,13 +111,12 @@ export const projectsData = [
         id: 7,
         projectName: "FigJam E-Commerce",
         projectDesc: [
-          "React native application a UI app.",
+          "React e commerce app file and code structure design",
           [
-            "Images , View , SafeAreaView etc",
-            "expo client"
+            ""
           ]
         ],
-        tags: ["UI/UX", "FigJam","User Flow","Task Flow"],
+        tags: ["UI/UX", "FigJam","Design"],
         code: "https://www.figma.com/file/f0MNmGuRsER1HZK81HqXKy/e-commerce-design?type=whiteboard&node-id=0%3A1&t=eQrxJ6wPDmWR74rM-1",
         demo: "https://www.figma.com/file/f0MNmGuRsER1HZK81HqXKy/e-commerce-design?type=whiteboard&node-id=0%3A1&t=eQrxJ6wPDmWR74rM-1",
         image:
