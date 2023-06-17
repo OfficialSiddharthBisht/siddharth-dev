@@ -93,7 +93,7 @@ export const projectsData = [
           "./code.png"
       },
       {
-        id: 5,
+        id: 6,
         projectName: "Lumen 5 Clone",
         projectDesc: [
           "A vanilla JS Project built on a week.",
@@ -106,6 +106,22 @@ export const projectsData = [
         demo: "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/",
         image:
           "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone/Assets/Images/logo-white.png"
+      },
+      {
+        id: 7,
+        projectName: "FigJam E-Commerce",
+        projectDesc: [
+          "React native application a UI app.",
+          [
+            "Images , View , SafeAreaView etc",
+            "expo client"
+          ]
+        ],
+        tags: ["UI/UX", "FigJam","User Flow","Task Flow"],
+        code: "https://www.figma.com/file/f0MNmGuRsER1HZK81HqXKy/e-commerce-design?type=whiteboard&node-id=0%3A1&t=eQrxJ6wPDmWR74rM-1",
+        demo: "https://www.figma.com/file/f0MNmGuRsER1HZK81HqXKy/e-commerce-design?type=whiteboard&node-id=0%3A1&t=eQrxJ6wPDmWR74rM-1",
+        image:
+          "./code.png"
       },
 ]
 
