@@ -1,6 +1,18 @@
 export const clientProjectsData = [
   {
     id: 1,
+    projectName: "Hotel Najma Arshi Nainital",
+    projectDesc: [
+      "",
+      ["Freelancing Project", " Hotel based in Nainital "]
+    ],
+    tags: ["Vanilla JS", "Bootstrap", "Landing Page"],
+    demo: "https://najmaarshi.in/",
+    image:
+      "./nagma_ss.png"
+  },
+  {
+    id: 2,
     projectName: "Godrej 146 Noida",
     projectDesc: [
       `Godrej Properties has revealed its intention to attract both homebuyers and investors by offering a top-notch residential project situated in a prime location at Sector 146 in Noida.`,
@@ -15,7 +27,7 @@ export const clientProjectsData = [
       "./godrej.webp"
   },
   {
-    id: 2,
+    id: 3,
     projectName: "Ahuja Products And Services",
     projectDesc: [
       "Desktops Laptops Second Hand and repair services , provies electrical appliences and stationary",
@@ -26,18 +38,7 @@ export const clientProjectsData = [
     image:
       "./ahuja.png"
   },
-  {
-    id: 3,
-    projectName: "Hotel Nagma Arshi Nainital",
-    projectDesc: [
-      "",
-      ["Solo Freelancing Project", ""]
-    ],
-    tags: ["Vanilla JS", "Bootstrap", "Landing Page"],
-    demo: "https://hotel-nagma-arshi.vercel.app/",
-    image:
-      "./nagma_ss.png"
-  },
+
   // {
   //   id: 3,
   //   projectName: "E Commerce Backend NodeJS",
