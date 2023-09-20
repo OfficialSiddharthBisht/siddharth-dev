@@ -5,11 +5,12 @@ import { ThemeContext } from './contexts/ThemeContext';
 import { Main, BlogPage, ProjectPage } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
+// import ReactGA from 'react-ga'
 
 import './App.css'
 
 function App() {
-
+  // ReactGA.initialize('G-7ES3S6KP28')
   const { theme } = useContext(ThemeContext);
 
   console.log("%cDEVELOPER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
@@ -19,7 +20,7 @@ function App() {
   return (
     <div className="app">
       <Router>
-        <ScrollToTop/>
+        <ScrollToTop />
         <Switch>
           <Route path="/" exact component={Main} />
           <Route path="/blog" exact component={BlogPage} />
